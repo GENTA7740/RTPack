@@ -15,4 +15,4 @@
   1. Download proton from [here](https://github.com/SethRobinson/proton/)
   1. Download this source, replace the existing files in proton with ones from this one
   1. Build using the modified solution in RTPack/windows_vc2017 (Debug, Win32)
-  1. Or download the built executable from [here]()
+  1. Or download the built executable from [here](https://github.com/ama6nen/RTPack/releases/tag/V1.6)
