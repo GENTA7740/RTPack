@@ -3,7 +3,7 @@
 #include "util/MiscUtils.h"
 #include "util/ResourceUtils.h"
 #include "util/Variant.h"
-#include "Manager/VariantDB2.h"
+#include "Manager/VariantDB.h"
 
 #include "FileSystem/FileManager.h"
 #include "util/TextScanner.h"
